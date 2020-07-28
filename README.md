@@ -27,7 +27,7 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
 - I’m currently working with Tensorflow, and scikit-learn. I **mainly specialize in Machine Learning, with Python**
 - I’m **currently learning Deep Learning with Python**, and Data Structures and Algorithms with C++
 - I’m **looking to collaborate on any Open Source Project involving Machine Learning or Deep Learning with Python**
-- How to reach me: **anandrajaram21@gmail.com **
+- **Reach me at anandrajaram21@gmail.com**
 - I have worked as a frontend web developer, primarily with HTML/CSS, Javascript and frameworks like React and Angular.
 - I am **proficient in Machine Learning with Python, and have worked on various projects that involve the use of Tensorflow, and scikit-learn**
 - I have a **good understanding of Git and Docker**, and an **elementary understanding of AWS** too!
