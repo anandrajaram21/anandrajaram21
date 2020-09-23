@@ -1,24 +1,21 @@
 ## Hello World!
 
-<a href="https://twitter.com/anandrajaram21">
-  <img align="left" alt="Anand's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/anandrajaram21/">
   <img align="left" alt="Anand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/anandrajaram21">
   <img align="left" alt="Anand's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/anandrajaram_21/">
-  <img align="left" alt="Anand's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://hub.docker.com/u/anandrajaram21">
+  <img align="left" alt="Anand's Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+ </a>
 <br />
 
 ### Glad to see you here!
 
 I am a student of Class 12 studying in Sri Kumaran Childrens Home - CBSE. I started programming at the age of 14, and have loved it ever since. The first language i ever learnt was Java, after which my focus shifted primarily to Python and Javascript
 
-I am a machine learning and deep learning enthusiast and am extremely skilled in the area of machine learning and deep learning with Python, and have built various machine learning models and neural networks too
+I am a machine learning and deep learning nerd and absolutely love anything and everything related to data science. I also love containers, virtualization, Docker and Kubernetes.
 
 I am also proficient in JavaScript and frontend JavaScript frameworks like React and Angular, and also comfortable with working in a fullstack web development environment. 
 
