@@ -26,6 +26,8 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
 <a href="https://medium.com/@anandrajaram21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anandrajaram21" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -34,7 +36,9 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 </p>
+
 <hr>
+
 <h3 align="left">Tools and Frameworks</h3>
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
