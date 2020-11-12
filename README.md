@@ -56,6 +56,4 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&layout=compact" alt="anandrajaram21" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true" alt="anandrajaram21" /></p>
