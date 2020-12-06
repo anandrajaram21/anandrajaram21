@@ -17,7 +17,7 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
 
 - 📫 How to reach me **anandrajaram21@gmail.com**
 
-- ⚡ Fun fact **I type really fast at almost 95 WPM**
+- ⚡ Fun fact **I type really fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
