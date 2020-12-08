@@ -11,11 +11,11 @@ I am also proficient in JavaScript and frontend JavaScript frameworks like React
 
 - 🔭 I’m currently working on [covidash](https://github.com/anandrajaram21/covidash)
 
-- 🌱 I’m currently learning **Tensorflow and Kubernetes**
+- 🌱 I’m currently learning **how to build APIs with GraphQL**
 
-- 💬 Ask me about **DevOps, Docker, Kubernetes, or Data Science**
+- 💬 Ask me about **Frontend Development, DevOps, Docker, or Data Science**
 
-- 📫 How to reach me **anandrajaram21@gmail.com**
+- 📫 You can reach me at **anandrajaram21@gmail.com**
 
 - ⚡ Fun fact **I type really fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
