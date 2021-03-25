@@ -3,7 +3,7 @@
 
 I am a student of Class 12 studying in Sri Kumaran Childrens Home - CBSE. I started programming at the age of 14, and have loved it ever since. The first language i ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
-I absolutely love anything related to cybersecurity and pentesting. The feeling of pwning a system is priceless. I also love containers, virtualization, Docker and Kubernetes. I am an avid open source geek, and absolutely love FOSS.
+I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization, Docker and Kubernetes. I am an avid open source geek, and absolutely love FOSS.
 
 I am experienced in deploying highly scalable and resilient web applications to various cloud computing services like Google Cloud Platform, and Amazon Web Services.
 
