@@ -19,6 +19,6 @@ Some of my other passions include tinkering around with my Arch Linux system (wi
 
 - 📫 You can reach me at **anandrajaram21@gmail.com**
 
-- ⚡ Fun fact **I type really fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
+- ⚡ Fun fact **I type pretty fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true" alt="anandrajaram21" /></p>
