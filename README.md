@@ -5,7 +5,7 @@ I am a student of Class 12 studying in Sri Kumaran Childrens Home - CBSE. I star
 
 I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker.
 
-I love to participate in CTFs and am also a member of the Reddit OpenToAll CTF team. Most of my time is spent on some beginner web app penetration testing, HackTheBox and TryHackMe.
+I love to participate in CTFs and and submit writeups for the challenges I was able to solve. Most of my time is spent on some beginner web app penetration testing, HackTheBox or TryHackMe.
 
 Some of my other passions include tinkering around with various linux distros (window managers, desktop environments, and whatnot) and distrohopping. I have never been able to stay on the same linux distro for more than 2 months. This has led me to using a ton of linux distros including Fedora, Ubuntu, and even OpenSuse Tumbleweed.
 
