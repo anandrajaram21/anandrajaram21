@@ -15,4 +15,4 @@ Some of my other passions include tinkering around with various linux distros (w
 
 - ⚡ Fun fact **I type pretty fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&theme=dracula" alt="anandrajaram21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&theme=nord" alt="anandrajaram21" /></p>
