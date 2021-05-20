@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anand Rajaram</h1>
 <h3 align="center">Web Security Researcher and CTF Player</h3>
 
-I am a student of Class 12 studying in Sri Kumaran Childrens Home - CBSE. I started programming at the age of 14, and have loved it ever since. The first language i ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
+I am a student of Class 12 studying in Bangalore, India. I started programming at the age of 14, and have loved it ever since. The first language i ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
 I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker.
 
