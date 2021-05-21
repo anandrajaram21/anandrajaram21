@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anand Rajaram</h1>
-<h3 align="center">Web Security Researcher and CTF Player</h3>
+<h3 align="center">Student | Web Security Enthusiast | CTF Player</h3>
 
 I am a student of Class 12 studying in Bangalore, India. I started programming at the age of 14, and have loved it ever since. The first language i ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
