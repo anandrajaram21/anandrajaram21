@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anand Rajaram</h1>
 <h3 align="center">Student | Web Security Enthusiast | CTF Player</h3>
 
-I am a student at Sri Kumaran Children's Home, Bangalore. I started programming at the age of 14, and have loved it ever since. The first language I ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
+I am a 1st year student at Vellore Institute of Technology, Vellore, pursuing my bachelors in Computer Science with a specialization in Information Security. I started programming at the age of 14, and have loved it ever since. The first language I ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
 I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker.
 
@@ -11,7 +11,7 @@ Some of my other passions include tinkering around with various linux distros (w
 
 - 💬 Ask me about **Web Development, Cloud Computing, Web App Security, and anything related to technology in general.**
 
-- 📫 You can reach me at **anandrajaram21@gmail.com**
+- 📫 You can reach me at **anand@anandrajaram.dev**
 
 - ⚡ Fun fact **I type pretty fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
