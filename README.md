@@ -15,7 +15,7 @@ Some of my other passions include tinkering around with various linux distros (w
 
 - ⚡ Fun fact **I type pretty fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
 
-If you really like me, or want to support the work I do, I would really encourage you to buy me a coffee here :) It would mean the WORLD to a broke college student like myself.
+If you really like me, or want to support the work I do, I would really encourage you to buy me a coffee here :) It would mean the WORLD to a college student like myself.
 
 <a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
