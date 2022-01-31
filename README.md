@@ -3,7 +3,7 @@
 
 I am a 1st year student at Vellore Institute of Technology, Vellore, pursuing my bachelors in Computer Science with a specialisation in Information Security. I started programming at the age of 14, and have loved it ever since. The first language I ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
-I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker.
+I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker. I also like the idea behind decentralisation, and the blockchain in general.
 
 I love to participate in CTFs and submit writeups for the challenges I was able to solve. Most of my time is spent on some beginner web app penetration testing, HackTheBox or TryHackMe.
 
