@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Anand Rajaram</h1>
 <h3 align="center">Student | Web Security Enthusiast | CTF Player</h3>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anandrajaram21.readme&left_color=green&right_color=red)
+
 I am a 1st year student at Vellore Institute of Technology, Vellore, pursuing my bachelors in Computer Science with a specialisation in Information Security. I started programming at the age of 14, and have loved it ever since. The first language I ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
 
 I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker. I also like the idea behind decentralisation, and the blockchain in general.
