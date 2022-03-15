@@ -12,6 +12,8 @@ I'm an enthusiastic Computer Software Architect 👨🏻‍💻 currently pursui
 
 I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
 
+[![Github activity](https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal)](https://github.com/anandrajaram21/)
+
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -40,18 +42,11 @@ Like My Work?
 ### Miscellaneous
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ GitHub Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Graph</b></summary>
-
-  <br />
-  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal" />
 </details>
 
 <details>
@@ -69,25 +64,25 @@ Like My Work?
     </thead>
     <tbody>
        <tr>
-	      <td><a href="https://github.com/facebookresearch/dynabench"><b>🚀 Dynabench</b></a></td>
+	<td><a href="https://github.com/facebookresearch/dynabench"><b>🚀 Dynabench</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/facebookresearch/dynabench?style=for-the-badge"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/facebookresearch/dynabench?style=for-the-badge"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/facebookresearch/dynabench?style=for-the-badge"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Covidash</b></a></td>
+	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Covidash</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/covidash?style=for-the-badge"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/covidash?style=for-the-badge"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/covidash?style=for-the-badge"/></td>
       </tr>
        <tr>
-	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Mission Control</b></a></td>
+	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Mission Control</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/mission-control?style=for-the-badge"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/mission-control?style=for-the-badge"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/mission-control?style=for-the-badge"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Hackintosh</b></a></td>
+	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Hackintosh</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/hackintosh?style=for-the-badge"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/hackintosh?style=for-the-badge"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/hackintosh?style=for-the-badge"/></td>
