@@ -10,7 +10,7 @@
 
 I'm an enthusiastic Computer Software Architect 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Ship Good Code" 🚢 :)
 
-I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developed clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
+I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
 
 Like My Work?
 
