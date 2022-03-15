@@ -12,8 +12,6 @@ I'm an enthusiastic Computer Software Architect 👨🏻‍💻 currently pursui
 
 I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
 
-[![Github activity](https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal)](https://github.com/anandrajaram21/)
-
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -47,6 +45,11 @@ Like My Work?
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+	<summary><b>🧲 GitHub Graph</b></summary>
+	<img src="https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal" />
 </details>
 
 <details>
