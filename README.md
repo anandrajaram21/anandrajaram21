@@ -1,25 +1,120 @@
-<h1 align="center">Hello 👋, I'm Anand Rajaram</h1>
-<h3 align="center">Student | Web Security Enthusiast | CTF Player</h3>
+## Hey 👋, I'm [Anand Rajaram!](https://github.com/anandrajaram21/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anandrajaram21.readme&left_color=green&right_color=red)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandrajaram21)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anandrajaram.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anandrajaram21)
+[![Steam Profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/anandrajaram21/)
+![](https://komarev.com/ghpvc/?username=anandrajaram21&style=for-the-badge)
 
-I am a 1st year student at Vellore Institute of Technology, Vellore, pursuing my bachelors in Computer Science with a specialisation in Information Security. I started programming at the age of 14, and have loved it ever since. The first language I ever learnt was Java, after which my focus shifted primarily to Python and JavaScript.
+### Glad to see you here! &nbsp; 
 
-I absolutely love anything related to cybersecurity and pentesting. The feeling you get when you finally pwn a system is priceless. I also love containers, virtualization and Docker. I also like the idea behind decentralisation, and the blockchain in general.
+I'm an enthusiastic Computer Software Architect 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Ship Good Code" 🚢 :)
 
-I love to participate in CTFs and submit writeups for the challenges I was able to solve. Most of my time is spent on some beginner web app penetration testing, HackTheBox or TryHackMe.
+I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developed clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
 
-Some of my other passions include tinkering around with various linux distros (window managers, desktop environments, and whatnot) and distrohopping. I have never been able to stay on the same linux distro for more than 2 months. This has led me to using a ton of linux distros including Fedora, Ubuntu, and even OpenSuse Tumbleweed.
+Like My Work?
 
-- 💬 Ask me about **Web Development, Cloud Computing, Web App Security, and anything related to technology in general.**
+<a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-- 📫 You can reach me at **anand@anandrajaram.dev**
+<img align="right" height="250" width="425" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
 
-- ⚡ Fun fact **I type pretty fast at almost 120 WPM. I can also solve a Rubiks Cube in less than 30 seconds :)**
+### Quick Facts:
 
-If you really like me, or want to support the work I do, I would really encourage you to buy me a coffee here :) It would mean the WORLD to a college student like myself.
+- 🛠 &nbsp; I’m currently working with Python, Javascript, Node.js, React, Next.js and PostgreSQL.
+- 🚀 &nbsp; I’m currently exploring the world of web3 and cybersecurity
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
+- 👾 &nbsp; Fun fact: I love playing football ⚽️ and snooker 🎱.
+- 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
+- 📝 &nbsp; Checkout my [Resume](https://anandrajaram.dev/resume.pdf).
 
-<a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+### My Absolute Favorites:
 
+- 💻 &nbsp; Exploring new technologies. 
+- 🍕 &nbsp; Taking part in CTFs and hackathons.
+- 📰 &nbsp; Watching TV Shows, and playing games.
 
-<p>&nbsp;<img style="text-align: center;" align="center" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" /></p>
+<!--
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+-->
+
+### Miscellaneous
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Graph</b></summary>
+
+  <br />
+  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+       <tr>
+	      <td><a href="https://github.com/facebookresearch/dynabench"><b>🚀 Dynabench</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/facebookresearch/dynabench?style=for-the-badge"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/facebookresearch/dynabench?style=for-the-badge"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/facebookresearch/dynabench?style=for-the-badge"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Covidash</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/covidash?style=for-the-badge"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/covidash?style=for-the-badge"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/covidash?style=for-the-badge"/></td>
+      </tr>
+       <tr>
+	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Mission Control</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/mission-control?style=for-the-badge"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/mission-control?style=for-the-badge"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/mission-control?style=for-the-badge"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Hackintosh</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/hackintosh?style=for-the-badge"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/hackintosh?style=for-the-badge"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/hackintosh?style=for-the-badge"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS Monterey</li>
+	    <li><b>Laptop: </b>M1 Macbook Pro</li>
+      <li><b>Browser: </b>Firefox, Chrome, Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
+	    <li><b>Code Editor:</b> Neovim, VS Code</li>
+	    <li><b>To Stay Updated:</b> Daily.dev, Twitter, Hashnode</li>
+	    <br />
+	</ul>	
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
