@@ -16,7 +16,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="425" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
+<img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
 
 ### Quick Facts:
 
