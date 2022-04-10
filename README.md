@@ -101,8 +101,8 @@ Like My Work?
   	<ul>
   	    <li><b>OS:</b> macOS Monterey</li>
 	    <li><b>Laptop: </b>M1 Macbook Pro</li>
-      <li><b>Browser: </b>Firefox, Chrome, Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
+      <li><b>Browser: </b>Chrome, Firefox</li>
+	    <li><b>Terminal: </b> Fish, fisher as the plugin manager</li>
 	    <li><b>Code Editor:</b> Neovim, VS Code</li>
 	    <li><b>To Stay Updated:</b> Daily.dev, Twitter, Hashnode</li>
 	    <br />
