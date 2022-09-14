@@ -23,7 +23,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Python, Javascript, Node.js, React, Next.js and PostgreSQL.
 - 🚀 &nbsp; I’m currently exploring the world of web3 and cybersecurity
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
-- 👾 &nbsp; Fun fact: I love playing football ⚽️ and snooker 🎱.
+- 👾 &nbsp; Fun fact: I am a massive keyboard enthusiast and audiophile :)
 - 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
 - 📝 &nbsp; Checkout my [Resume](https://anandrajaram.dev/resume.pdf).
 
