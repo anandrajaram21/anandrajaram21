@@ -20,10 +20,10 @@ Like My Work?
 
 ### Quick Facts:
 
-- 🛠 &nbsp; I’m currently working with Python, Javascript, Node.js, React, Next.js and PostgreSQL.
-- 🚀 &nbsp; I’m currently exploring the world of web3 and cybersecurity
+- 🛠 &nbsp; I’m currently working with Typescript, Next.js and tRPC
+- 🚀 &nbsp; I’m currently exploring the world of Cybersecurity and DevSecOps
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
-- 👾 &nbsp; Fun fact: I am a massive keyboard enthusiast and audiophile :)
+- 👾 &nbsp; Fun fact: I am a massive keyboard nerd and audiophile :)
 - 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
 - 📝 &nbsp; Checkout my [Resume](https://anandrajaram.dev/resume.pdf).
 
@@ -102,7 +102,7 @@ Like My Work?
   	    <li><b>OS:</b> macOS Monterey</li>
 	    <li><b>Laptop: </b>M1 Macbook Pro</li>
       <li><b>Browser: </b>Chrome, Firefox</li>
-	    <li><b>Terminal: </b> Fish, fisher as the plugin manager</li>
+	    <li><b>Terminal: </b> Fish</li>
 	    <li><b>Code Editor:</b> Neovim, VS Code</li>
 	    <li><b>To Stay Updated:</b> Daily.dev, Twitter, Hashnode</li>
 	    <br />
