@@ -36,6 +36,7 @@ Like My Work?
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
+[![An image of @anandrajaram21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandrajaram21)](https://holopin.io/@anandrajaram21)
 
 ### Miscellaneous
 
@@ -47,54 +48,6 @@ Like My Work?
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-	<summary><b>🧲 GitHub Graph</b></summary>
-	<img src="https://activity-graph.herokuapp.com/graph?username=anandrajaram21&theme=minimal" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-       <tr>
-	<td><a href="https://github.com/facebookresearch/dynabench"><b>🚀 Dynabench</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/facebookresearch/dynabench?style=for-the-badge"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/facebookresearch/dynabench?style=for-the-badge"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/facebookresearch/dynabench?style=for-the-badge"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Covidash</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/covidash?style=for-the-badge"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/covidash?style=for-the-badge"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/covidash?style=for-the-badge"/></td>
-      </tr>
-       <tr>
-	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Mission Control</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/mission-control?style=for-the-badge"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/mission-control?style=for-the-badge"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/mission-control?style=for-the-badge"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/anandrajaram21/covidash"><b>🚀 Hackintosh</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anandrajaram21/hackintosh?style=for-the-badge"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anandrajaram21/hackintosh?style=for-the-badge"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anandrajaram21/hackintosh?style=for-the-badge"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
