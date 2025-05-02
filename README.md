@@ -20,8 +20,8 @@ Like My Work?
 
 ### Quick Facts:
 
-- 🛠 &nbsp; I’m currently working with Typescript, Next.js and tRPC
-- 🚀 &nbsp; I’m currently exploring the world of Cybersecurity and DevSecOps
+- 🛠 &nbsp; I’m currently working with Typescript, Swift and Python.
+- 🚀 &nbsp; I’m currently exploring the world of iOS App Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
 - 👾 &nbsp; Fun fact: I am a massive keyboard nerd and audiophile :)
 - 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
@@ -29,43 +29,14 @@ Like My Work?
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Exploring new technologies. 
+- 💻 &nbsp; Exploring new technologies.
 - 🍕 &nbsp; Taking part in CTFs and hackathons.
 - 📰 &nbsp; Watching TV Shows, and playing games.
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-[![An image of @anandrajaram21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandrajaram21)](https://holopin.io/@anandrajaram21)
 
-### Miscellaneous
-
-<details>	
-  <summary><b>⚡ GitHub Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandrajaram21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajaram21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> macOS Monterey</li>
-	    <li><b>Laptop: </b>M1 Macbook Pro</li>
-      <li><b>Browser: </b>Chrome, Firefox</li>
-	    <li><b>Terminal: </b> Fish</li>
-	    <li><b>Code Editor:</b> Neovim, VS Code</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Twitter, Hashnode</li>
-	    <br />
-	</ul>	
-</details>
-
-#
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
