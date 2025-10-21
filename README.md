@@ -8,20 +8,16 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm an enthusiastic Computer Software Architect 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Ship Good Code" 🚢 :)
+I'm an Associate Software Engineer at rtCamp 👨🏻‍💻 with a Bachelors in Computer Science 🎓, and I'm basically that person who gets way too excited about new tech 📱. Seriously, show me a cool framework or tool, and I'm diving in headfirst! I also love being the go-to person for folks just starting their coding journey 👨‍🏫 — there's nothing quite like seeing that "aha!" moment when something clicks. My life motto? "Ship Good Code" 🚢 (and maybe have some fun while doing it!)
 
-I have also had the privilege of working with Fortune 500 companies like [Facebook](https://meta.com) (now Meta) and [Cisco](https://cisco.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/anandrajaram21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+I've been lucky enough to work with some pretty cool Fortune 500 companies like Facebook (now Meta) and Cisco. These gigs taught me that you can write code that's clean, scalable, and robust without sacrificing your sanity 😄. Now, writing maintainable code is just part of my DNA, and hopping on calls with teammates across the globe? Just another Tuesday! ;)
 
 <img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
 
 ### Quick Facts:
 
-- 🛠 &nbsp; I’m currently working with Typescript, Swift and Python.
-- 🚀 &nbsp; I’m currently exploring the world of iOS App Development.
+- 🛠 &nbsp; I’m currently working with Python, Pinecone and PHP.
+- 🚀 &nbsp; I’m currently exploring the world of AI driven apps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
 - 👾 &nbsp; Fun fact: I am a massive keyboard nerd and audiophile :)
 - 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
@@ -32,6 +28,7 @@ Like My Work?
 - 💻 &nbsp; Exploring new technologies.
 - 🍕 &nbsp; Taking part in CTFs and hackathons.
 - 📰 &nbsp; Watching TV Shows, and playing games.
+- 🏍️ &nbsp; Riding my motorcycle!
 
 
 
