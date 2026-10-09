@@ -20,7 +20,7 @@ Always open to connecting with fellow developers and exploring new opportunities
 
 - 🛠 &nbsp; I’m currently working with Next.js, TypeScript and Python.
 - 🚀 &nbsp; I’m currently exploring the world of AI driven apps.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anandrajaram21).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/anandrajaram21).
 - 👾 &nbsp; Fun fact: I am a massive keyboard nerd and audiophile :)
 - 📫 &nbsp; How to reach me: [Email](mailto:anand@anandrajaram.dev)
 - 📝 &nbsp; Checkout my [Resume](https://anandrajaram.dev/resume.pdf).
